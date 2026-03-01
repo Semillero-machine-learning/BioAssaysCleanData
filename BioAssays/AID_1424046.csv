@@ -1,0 +1,14 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,Standard Type,Standard Relation,Standard Value,Activity Comment
+RESULT_TYPE,,,,,,,,STRING,STRING,FLOAT,STRING
+RESULT_DESCR,,,,,,,,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM,Additional comments
+1,103172204,60490,CC(C1=CC2=CC=CC=C2S1)N(C(=O)N)O,Inconclusive,,,Potential missing data,Ratio IC50,,,Not Determined
+2,103174500,3672,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,Unspecified,,,,Ratio IC50,=,1.5,
+3,103509987,5716903,CC(=CCC/C(=C/CC1=C(C2=C(C=C1O)O[C@@H](CC2=O)C3=CC=C(C=C3)O)O)/C)C,Unspecified,,,,Ratio IC50,=,0.62,
+4,103509988,639465,CC(=CCC/C(=C/CC1=C(C2=C(C=C1O)O[C@@H](CC2=O)C3=CC(=C(C=C3)O)O)O)/C)C,Unspecified,,,,Ratio IC50,=,0.43,
+5,103601918,24824762,CC(=CCC/C(=C/CC1=C(C2=C(C=C1O)O[C@@H](CC2=O)C3=CC(=C(C(=C3)OC)O)O)O)/C)C,Unspecified,,,,Ratio IC50,=,0.31,
+6,103601919,24854123,CC(=CCC/C(=C/CC1=C(C2=C(C=C1O)O[C@@H](CC2=O)C3=CC(=C(C(=C3)OC)O)OC)O)/C)C,Inconclusive,,,Potential missing data,Ratio IC50,,,Not Determined
+7,318373229,122178781,CC(=CCC/C(=C/CC1=C(C2=C(C=C1O)O[C@@H](CC2=O)C3=CC(=C(C(=C3)OC)OC)O)O)/C)C,Unspecified,,,,Ratio IC50,=,0.66,
+8,318373236,122178788,CC(=CCCC1(C=CC2=C(C3=C(C=C2O1)O[C@@H](CC3=O)C4=CC(=CC(=C4)O)O)O)C)C,Inconclusive,,,Potential missing data,Ratio IC50,,,Not Determined
+9,404695315,145978901,CC(=CCCC1(C=CC2=C(C3=C(C=C2O1)O[C@@H](CC3=O)C4=CC(=C(C=C4)O)OC)O)C)C,Unspecified,,,,Ratio IC50,=,2.8,
+10,404699028,129834645,CC(=CCC/C(=C/CC1=C(C2=C(C=C1O)OC=CC2=O)O)/C)C,Inconclusive,,,Potential missing data,Ratio IC50,,,Not Determined
+11,404707636,145987225,CC(=CCCC1(C=CC2=C(C3=C(C=C2O1)OC(CC3=O)C4=CC(=C(C(=C4)OC)O)OC)O)C)C,Inconclusive,,,Potential missing data,Ratio IC50,,,Not Determined

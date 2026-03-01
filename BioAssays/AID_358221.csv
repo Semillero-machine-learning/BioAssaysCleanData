@@ -1,0 +1,11 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,Standard Type,Activity Comment
+RESULT_TYPE,,,,,,,,STRING,STRING
+RESULT_DESCR,,,,,,,,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),Additional comments
+1,103601118,135433966,COC1=CC(=CC(=C1O)OC)/C=C/2\CCN3C2=NC4=CC=CC=C4C3=O,Unspecified,,,Potential missing data,Activity,Non-toxic
+2,103601130,11809733,CC(=O)OC1=CC=C(C=C1)/C=C/2\CCN3C2=NC4=CC=CC=C4C3=O,Unspecified,,,Potential missing data,Activity,Non-toxic
+3,103601161,10453108,CC(=O)OC1=C(C=C(C=C1OC)/C=C/2\CCN3C2=NC4=CC=CC=C4C3=O)OC,Unspecified,,,Potential missing data,Activity,Non-toxic
+4,103601162,11024108,COC1=CC(=CC(=C1)/C=C/2\CCN3C2=NC4=CC=CC=C4C3=O)OC,Unspecified,,,Potential missing data,Activity,Non-toxic
+5,103601163,6514539,C\1CN2C(=NC3=CC=CC=C3C2=O)/C1=C/C4=CC=CC=C4,Unspecified,,,Potential missing data,Activity,Non-toxic
+6,103601164,11046123,C\1CN2C(=NC3=CC=CC=C3C2=O)/C1=C/C4=CC=C(C=C4)C(F)(F)F,Unspecified,,,Potential missing data,Activity,Non-toxic
+7,103601165,10979201,C\1CN2C(=NC3=CC=CC=C3C2=O)/C1=C/C4=CC=C(C=C4)F,Unspecified,,,Potential missing data,Activity,Non-toxic
+8,103601166,135542430,C\1CN2C(=NC3=CC=CC=C3C2=O)/C1=C/C4=CC=C(C=C4)O,Unspecified,,,Potential missing data,Activity,Non-toxic

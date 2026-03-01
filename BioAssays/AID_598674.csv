@@ -1,0 +1,18 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,Standard Type,Standard Relation,Standard Value,Standard Units
+RESULT_TYPE,,,,,,,,STRING,STRING,FLOAT,STRING
+RESULT_DESCR,,,,,,,,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM,Selected units for 'Standard Type': e.g. concentrations are in nM
+1,103681893,45267718,CCCCC(C(=O)O)SC1=CC=C(C=C1)OCCCOC2=CC=CC(=C2)C,Unspecified,,,,Activity,=,79.3,%
+2,103683622,45268605,CCCC/C(=C\C1=CC=C(C=C1)OCCCOC2=CC=CC(=C2C)C)/C(=O)O,Unspecified,,,,Activity,=,88.9,%
+3,103683631,45268611,CCCCC(CC1=CC=C(C=C1)OCCCOC2=CC=CC(=C2C)C)C(=O)O,Unspecified,,,,Activity,=,70.8,%
+4,103685307,45269442,CCCCC(C(=O)O)SC1=CC=C(C=C1)OCCCOC2=CC=CC=C2OC,Unspecified,,,,Activity,=,79.4,%
+5,103685324,45269453,CC1=C(C(=CC=C1)OCCCOC2=CC=C(C=C2)CCC(=O)O)C,Unspecified,,,,Activity,=,81.8,%
+6,103687125,45270291,CCCCC(C(=O)O)SC1=CC=C(C=C1)OCCCOC2=CC3=C(C=C2)N=CC=C3,Unspecified,,,,Activity,=,59,%
+7,103690556,45271974,CCCCC(C(=O)O)SC1=CC=C(C=C1)OCCCOC2=CC=CC=C2,Unspecified,,,,Activity,=,69.4,%
+8,103690571,45271983,CCCCC(C(=O)O)SC1=CC=C(C=C1)OCCCOC2=CC=CC=C2C,Unspecified,,,,Activity,=,58.3,%
+9,103690585,45271992,CCCCC(C(=O)O)SC1=CC=C(C=C1)OCCCOC2=CC=CC(=C2)OC,Unspecified,,,,Activity,=,67.7,%
+10,103692343,45272810,CCCCC(C(=O)O)SC1=CC=C(C=C1)OCCCOC2=CC=C(C=C2)C,Unspecified,,,,Activity,=,67.6,%
+11,103694200,45273780,CC1=C(C(=CC=C1)OCCCOC2=CC=C(C=C2)SCC(=O)O)C,Unspecified,,,,Activity,=,72.4,%
+12,131273380,54580674,CCCCC(C(=O)OCC)SC1=CC=C(C=C1)OCCCOC2=CC=CC3=C2CCCC3,Unspecified,,,,Activity,=,79.4,%
+13,131275376,54581686,CCCCC(C(=O)OCC)SC1=CC=C(C=C1)OCCCOC2=CC=C(C=C2)C3=CC=CC=C3,Unspecified,,,,Activity,=,83,%
+14,131279405,54583638,CCCCC(C(=O)OCC)SC1=CC=C(C=C1)OCCCOC2=CC3=C(C=C2)N=CC=C3,Unspecified,,,,Activity,=,68.3,%
+15,131283416,54585561,CCCCC(C(=O)O)SC1=CC=C(C=C1)OCCCOC2=C(C=C(C=C2)Cl)OC,Unspecified,,,,Activity,=,59.2,%

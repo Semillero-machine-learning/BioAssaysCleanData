@@ -1,0 +1,10 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,Standard Type,Standard Relation,Standard Value,Standard Units,Activity Comment
+RESULT_TYPE,,,,,,,,STRING,STRING,FLOAT,STRING,STRING
+RESULT_DESCR,,,,,,,,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM,Selected units for 'Standard Type': e.g. concentrations are in nM,Additional comments
+1,103650961,44255843,C1=CC=C(C=C1)/C=C/C(=O)OCC2=CN(N=N2)CCOC(=O)/C=C/C3=CC(=C(C=C3)O)O,Active,,,Potential missing data,Activity,,,,Active
+2,103651018,44255844,C1=CC=C(C=C1)/C=C/C(=O)OCCN2C=C(N=N2)COC(=O)/C=C/C3=CC(=C(C=C3)O)O,Active,,,Potential missing data,Activity,,,,Active
+3,103651019,44255873,C1=CC(=C(C=C1/C=C/C(=O)OCCN2C=C(N=N2)COC(=O)/C=C/C3=CC(=C(C=C3)O)O)O)O,Active,,,Potential missing data,Activity,,,,Active
+4,103651020,44591066,C1=CC(=C(C=C1/C=C/C(=O)OCC2=CN(N=N2)CC(CO)(CN3N=NC(=C3)COC(=O)/C=C/C4=CC(=C(C=C4)O)O)CN5N=NC(=C5)COC(=O)/C=C/C6=CC(=C(C=C6)O)O)O)O,Unspecified,,,,Inhibition,=,91,%,
+5,103651021,44591067,C1=CC(=C(C=C1/C=C/C(=O)OCC2=CN(N=N2)CC(CN3N=NC(=C3)COC(=O)/C=C/C4=CC(=C(C=C4)O)O)(CN5N=NC(=C5)COC(=O)/C=C/C6=CC(=C(C=C6)O)O)CN7N=NC(=C7)COC(=O)/C=C/C8=CC(=C(C=C8)O)O)O)O,Unspecified,,,,Inhibition,=,92,%,
+6,103651022,44255901,C1=CC(=C(C=C1/C=C/C(=O)OCCN2N=NC(=C2)COCC(COCC3=CN(N=N3)CCOC(=O)/C=C/C4=CC(=C(C=C4)O)O)(COCC5=CN(N=N5)CCOC(=O)/C=C/C6=CC(=C(C=C6)O)O)COCC7=CN(N=N7)CCOC(=O)/C=C/C8=CC(=C(C=C8)O)O)O)O,Active,,,Potential missing data,Activity,,,,Active
+7,103651023,44255403,C1=CC(=C(C=C1/C=C/C(=O)OCC2=CN(N=N2)CC(COCC(CN3N=NC(=C3)COC(=O)/C=C/C4=CC(=C(C=C4)O)O)(CN5N=NC(=C5)COC(=O)/C=C/C6=CC(=C(C=C6)O)O)CN7N=NC(=C7)COC(=O)/C=C/C8=CC(=C(C=C8)O)O)(CN9N=NC(=C9)COC(=O)/C=C/C1=CC(=C(C=C1)O)O)CN1N=NC(=C1)COC(=O)/C=C/C1=CC(=C(C=C1)O)O)O)O,Active,,,Potential missing data,Activity,,,,Active

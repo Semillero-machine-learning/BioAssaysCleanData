@@ -1,0 +1,7 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,Standard Type,Standard Relation,Standard Value,Standard Units
+RESULT_TYPE,,,,,,,,STRING,STRING,FLOAT,STRING
+RESULT_DESCR,,,,,,,,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM,Selected units for 'Standard Type': e.g. concentrations are in nM
+1,104238565,46843035,CC1=CN=C(C=C1)COC2=CC3=C(C=C2)N(C(=C3SC(C)(C)C)CC(C)(C)C(=O)[O-])CC4=CC=C(C=C4)C5=NC=C(C=N5)OC.[Na+],Unspecified,,,,Vdss,=,0.18,L.kg-1
+2,136929514,57394981,CC1=CN=C(C=C1)COC2=CC3=C(C=C2)N(C(=C3SC(C)(C)C)CC(C)(C)C(=O)[O-])CC4=CC=C(C=C4)C5=NC=C(C=C5)F.[Na+],Unspecified,,,,Vdss,=,0.38,L.kg-1
+3,136936204,57398503,CC1=CN=C(C=C1)COC2=CC3=C(C=C2)N(C(=C3SC(C)(C)C)CC(C)(C)C(=O)[O-])CC4=CC=C(C=C4)C5=NC=C(C=C5)C.[Na+],Unspecified,,,,Vdss,=,0.16,L.kg-1
+4,136942535,44473150,CCOC1=NC=C(C=C1)C2=CC=C(C=C2)CN3C4=C(C=C(C=C4)OCC5=NC=C(C=C5)C)C(=C3CC(C)(C)C(=O)[O-])SC(C)(C)C.[Na+],Unspecified,,,,Vdss,=,0.7,L.kg-1

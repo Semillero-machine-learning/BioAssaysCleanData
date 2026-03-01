@@ -1,0 +1,22 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,Standard Type,Standard Relation,Standard Value,Standard Units
+RESULT_TYPE,,,,,,,,STRING,STRING,FLOAT,STRING
+RESULT_DESCR,,,,,,,,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM,Selected units for 'Standard Type': e.g. concentrations are in nM
+1,160672029,20787967,CCCCN(C1=CC=C(C=C1)C(=O)O)S(=O)(=O)C2=CC=C(C=C2)C,Unspecified,,,,Activity,=,111.8,%
+2,160672030,57521284,CC1=CC=C(C=C1)S(=O)(=O)N(CC2=CC=CC=C2)C3=CC=C(C=C3)C(=O)O,Unspecified,,,,Activity,=,75.7,%
+3,404696785,145979867,CC1=CC=C(C=C1)S(=O)(=O)N(CC2=CC=CS2)C3=CC=C(C=C3)CC(=O)O,Unspecified,,,,Activity,=,101.6,%
+4,404697813,145980535,CC1=CC=C(C=C1)S(=O)(=O)N(CC2=CC=CC=C2Cl)C3=CC=C(C=C3)C(=O)O,Unspecified,,,,Activity,=,95.2,%
+5,404698027,145980668,CC1=CC=C(C=C1)S(=O)(=O)N(CC2=C(C=CC=C2Cl)F)C3=CC=C(C=C3)C(=O)O,Unspecified,,,,Activity,=,75.4,%
+6,404698040,145980675,C1=CSC(=C1)CN(C2=CC=C(C=C2)C(=O)O)S(=O)(=O)C3=CC=C(C=C3)Cl,Unspecified,,,,Activity,=,97.2,%
+7,404698660,145981071,C1=CC=C2C=C(C=CC2=C1)C3=CC=C(C=C3)S(=O)(=O)N(CC4=CC=CS4)C5=CC=C(C=C5)C(=O)O,Unspecified,,,,Activity,=,69.7,%
+8,404699507,145981629,C1CCC(CC1)CN(C2=CC=C(C=C2)C(=O)O)S(=O)(=O)C3=CC=C(C=C3)F,Unspecified,,,,Activity,=,98.7,%
+9,404707738,145987291,CC1=CC=C(C=C1)S(=O)(=O)N(CC2=CC=CS2)C3=CC=C(C=C3)C(=O)O,Unspecified,,,,Activity,=,103.8,%
+10,404707829,145987351,CCCCCCN(C1=CC=C(C=C1)C(=O)O)S(=O)(=O)C2=CC=C(C=C2)C,Unspecified,,,,Activity,=,65.2,%
+11,404708971,145988075,CC1=CC=C(C=C1)S(=O)(=O)N(CC2=CSC=C2)C3=CC=C(C=C3)C(=O)O,Unspecified,,,,Activity,=,98.2,%
+12,404709233,145988232,CC1=CC=C(C=C1)S(=O)(=O)N(CC2=CC(=C(C=C2)OC)OC)C3=CC=C(C=C3)C(=O)O,Unspecified,,,,Activity,=,110.3,%
+13,404709732,145988555,CC1=CC=C(C=C1)CN(C2=CC=C(C=C2)C(=O)O)S(=O)(=O)C3=CC=C(C=C3)C,Unspecified,,,,Activity,=,96.7,%
+14,404709902,145988665,C1=CSC(=C1)CN(C2=CC=C(C=C2)C(=O)O)S(=O)(=O)C3=CC=C(C=C3)C(=O)O,Unspecified,,,,Activity,=,111.5,%
+15,404711120,145989444,C1=CSC(=C1)CN(C2=CC=C(C=C2)C(=O)O)S(=O)(=O)C3=CC=C(C=C3)F,Unspecified,,,,Activity,=,94.6,%
+16,404712711,145990455,CC1=CC=C(C=C1)S(=O)(=O)N(CC2=CC(=CC=C2)Cl)C3=CC=C(C=C3)C(=O)O,Unspecified,,,,Activity,=,84.7,%
+17,404713564,145991004,CC1=CC=C(C=C1)S(=O)(=O)N(CC2=CC=CC=C2)C3=CC=C(C=C3)C(=O)NS(=O)(=O)C4=CC=CC=C4,Unspecified,,,,Activity,=,80,%
+18,404713785,145991151,CC1=CC=C(C=C1)S(=O)(=O)N(CC2CCCCC2)C3=CC=C(C=C3)C(=O)O,Unspecified,,,,Activity,=,76.9,%
+19,404716054,145992605,CC1=CC=C(C=C1)S(=O)(=O)N(CC2=CC=C(C=C2)Cl)C3=CC=C(C=C3)C(=O)O,Unspecified,,,,Activity,=,83.2,%

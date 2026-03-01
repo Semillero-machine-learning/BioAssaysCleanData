@@ -1,0 +1,19 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,Standard Type,Standard Relation,Standard Value,Standard Units
+RESULT_TYPE,,,,,,,,STRING,STRING,FLOAT,STRING
+RESULT_DESCR,,,,,,,,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM,Selected units for 'Standard Type': e.g. concentrations are in nM
+1,103167479,14416587,CC(C)C1=CC(=CC(=C1O)C(C)C)/C=C/C2=CC=CS2,Unspecified,,,,Inhibition,=,14,%
+2,103243044,14771902,CCC1=CC(=CC(=C1O)CC)/C=C/C2=CC=C(C=C2)OC,Unspecified,,,,Inhibition,=,15,%
+3,103243121,14771889,CCC1=CC(=CC(=C1O)CC)/C=C/C2=CC=CS2,Unspecified,,,,Inhibition,=,52,%
+4,103243171,14771908,CCCOC1=CC=C(C=C1)/C=C/C2=CC(=C(C(=C2)C)O)C,Unspecified,,,,Inhibition,=,27,%
+5,103243174,6366699,CC1=CC(=CC(=C1O)C)/C=C/C2=CC=CC=C2OCC3=CC=CC=C3,Unspecified,,,,Inhibition,=,18,%
+6,103243196,14771901,CC(C)C1=CC(=CC(=C1O)C(C)C)/C=C/C2=CC=C(C=C2)OC,Unspecified,,,,Inhibition,=,13,%
+7,103243217,14771923,CC1=CC=C(S1)/C=C/C2=CC(=C(C(=C2)C)O)C,Unspecified,,,,Inhibition,=,26,%
+8,103243292,14771909,CCCCOC1=CC=C(C=C1)/C=C/C2=CC(=C(C(=C2)C)O)C,Unspecified,,,,Inhibition,=,7,%
+9,103243293,14771893,CC1=CC(=CC(=C1O)Cl)/C=C/C2=CC=CS2,Unspecified,,,,Inhibition,=,29,%
+10,103243312,135616214,CC1=CC(=CC(=C1O)C)/C=C/C2=CC=CC=N2,Unspecified,,,,Inhibition,=,29,%
+11,103243313,14771922,CC1=CC(=CC(=C1O)C)/C=C/C2=CC=C(S2)Cl,Unspecified,,,,Inhibition,=,32,%
+12,103243405,14771898,CCC1=CC(=CC(=C1O)CC)/C=C/C2=CN=CC=C2,Unspecified,,,,Inhibition,=,36,%
+13,103243708,14771897,COC1=CC(=CC(=C1O)OC)/C=C/C2=CC=CS2,Unspecified,,,,Inhibition,=,52,%
+14,103243747,14771896,COC1=C(C(=CC(=C1)/C=C/C2=CC=CS2)F)O,Unspecified,,,,Inhibition,=,31,%
+15,103243860,14771894,CC1=CC(=CC(=C1O)F)/C=C/C2=CC=CS2,Unspecified,,,,Inhibition,=,18,%
+16,103243969,14771931,CC1=CC(=CC(=C1O)C)CCC2=CC=CS2,Unspecified,,,,Inhibition,=,11,%

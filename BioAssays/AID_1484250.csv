@@ -1,0 +1,16 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,Standard Type,Standard Relation,Standard Value,Standard Units
+RESULT_TYPE,,,,,,,,STRING,STRING,FLOAT,STRING
+RESULT_DESCR,,,,,,,,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM,Selected units for 'Standard Type': e.g. concentrations are in nM
+1,103618477,159969,CC(C)CC(C1=C(C(=C(C(=C1O)CC=C(C)C)O)C(=O)C)O)C2=C(C(=C(C(=C2O)CC=C(C)C)OC)C(=O)C)O,Unspecified,,,,Activity,<,50,%
+2,123088627,11808877,CC(=CCC/C(=C/CC1=C(C(=C(C=C1O)O)C(=O)C)O)/C)C,Unspecified,,,,Activity,<,50,%
+3,160677325,402434,CC(C)CC(C1=C(C(=C(C(=C1O)CC=C(C)C)OC)C(=O)C)O)C2=C3C(=C(C(=C2O)C(=O)C)O)CC(O3)C(C)(C)O,Unspecified,,,,Activity,<,50,%
+4,242522248,402435,CC(C)CC(C1=C(C(=C2C(=C1O)CC(O2)C(C)(C)O)C(=O)C)O)C3=C(C(=C(C(=C3O)CC=C(C)C)OC)C(=O)C)O,Unspecified,,,,Activity,<,50,%
+5,381840554,137634058,CC(C)CC(C1=C(C(=C2C(=C1O)C=CC(O2)(C)C)C(=O)C)O)C3=C(C(=C4C(=C3O)C=CC(O4)(C)C)C(=O)C)O,Unspecified,,,,Activity,<,50,%
+6,381852486,137642063,CC(C)CC(C1=C(C(=C(C=C1O)O)C(=O)C)O)C2=C(C(=C(C=C2O)O)C(=O)C)O,Unspecified,,,,Activity,<,50,%
+7,381864045,137649890,CC(C)CC(C1=C(C(=C(C(=C1O)C/C=C(\C)/CCC=C(C)C)O)C(=O)C)O)C2=C(C(=C(C(=C2O)C/C=C(/C)\CCC=C(C)C)O)C(=O)C)O,Unspecified,,,,Activity,<,50,%
+8,381864099,137649934,CC(C)CC(C1=C(C(=C(C(=C1O)CC=C(C)C)OC)C(=O)C)O)C2=C(C(=C(C(=C2O)C[C@@H](C(=C)C)O)O)C(=O)C)O,Unspecified,,,,Activity,<,50,%
+9,381865278,60200528,CC(C)CC(C1=C(C(=C(C(=C1O)CC=C(C)C)OC)C(=O)C)O)C2=C3C(=C(C(=C2O)C(=O)C)O)CC(C(O3)(C)C)O,Unspecified,,,,Activity,<,50,%
+10,381867733,60200529,CC(C)CC(C1=C(C(=C2C(=C1O)CC(C(O2)(C)C)O)C(=O)C)O)C3=C(C(=C(C(=C3O)CC=C(C)C)OC)C(=O)C)O,Unspecified,,,,Activity,<,50,%
+11,381868563,137652936,CC(C)CC(C1=C(C(=C2C(=C1O)CC(O2)C(=C)C)C(=O)C)O)C3=C(C(=C4C(=C3O)CC(O4)C(=C)C)C(=O)C)O,Unspecified,,,,Activity,<,50,%
+12,381879491,14845590,CC(C)CC(C1=C(C(=C(C(=C1O)CC=C(C)C)O)C(=O)C)O)C2=C(C(=C(C(=C2O)CC=C(C)C)O)C(=O)C)O,Unspecified,,,,Activity,<,50,%
+13,381882887,60200527,CC(C)CC(C1=C(C(=C2C(=C1O)C=CC(O2)(C)C)C(=O)C)O)C3=C(C(=C(C(=C3O)CC=C(C)C)OC)C(=O)C)O,Unspecified,,,,Activity,<,50,%

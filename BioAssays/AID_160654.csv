@@ -1,0 +1,5 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,Standard Type,Standard Relation,Standard Value,Standard Units
+RESULT_TYPE,,,,,,,,STRING,STRING,FLOAT,STRING
+RESULT_DESCR,,,,,,,,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM,Selected units for 'Standard Type': e.g. concentrations are in nM
+1,103431784,44384080,CCOC(=O)C(CC1=CN=CN1)NC2=NC3=C(O2)C=CC(=C3)C(C)C,Unspecified,,,,Inhibition,=,26,%
+2,103432462,44384431,CCN1C=NC=C1CC(C(=O)OCC)NC2=NC3=C(O2)C=CC(=C3)C(C)C,Unspecified,,,,Inhibition,=,59,%

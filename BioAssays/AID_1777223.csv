@@ -1,0 +1,50 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,Standard Type,Standard Relation,Standard Value,Standard Units,Activity Comment
+RESULT_TYPE,,,,,,,,STRING,STRING,FLOAT,STRING,STRING
+RESULT_DESCR,,,,,,,,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM,Selected units for 'Standard Type': e.g. concentrations are in nM,Additional comments
+1,163323424,71454753,CC1=C(C2=C(CC[C@@](O2)(C)CCCC(C)CCCC(C)CCCC(C)C(=O)O)C(=C1O)C)C,Unspecified,,,,Activity,=,2,%,
+2,194172962,73603963,CC1=CC(=CC2=C1O[C@](CC2)(C)CC/C=C(\C)/CC/C=C(\C)/CCC=C(CO)CO)O,Unspecified,,,,Activity,=,14.7,%,
+3,194179829,73603969,CC1=C(C=C2CC[C@@](OC2=C1C)(C)CC/C=C(\C)/CC/C=C(\C)/CCC=C(CO)CO)O,Unspecified,,,,Activity,=,0.8,%,
+4,440139649,10455173,CC1=CC(=CC2=C1O[C@](CC2)(C)CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/C(=O)O)O,Unspecified,,,,Activity,=,0.4,%,
+5,461524290,162649877,CC1=CC(=C(C2=C1O[C@](CC2)(C)CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/C(=O)O)C)O,Unspecified,,,,Activity,=,5.1,%,
+6,461539763,162660777,CC1=C(C2=C(CC[C@@](O2)(C)CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/C(=O)O)C(=C1O)C)C,Unspecified,,,,Activity,=,12.2,%,
+7,469799292,164609391,CC1=CC(=CC2=C1O[C@](CC2)(C)CC/C=C(\C)/CC/C=C/C(=O)O)O,Unspecified,,,,Activity,=,77,%,
+8,469799970,164609879,CC1=CC(=CC2=C1O[C@](CC2)(C)CC/C=C(\C)/CC/C=C(\C)/CCC(=O)O)O,Unspecified,,,,Activity,=,32,%,
+9,469799989,164609893,CC1=C(C=C2CC[C@@](OC2=C1C)(C)CC/C=C(\C)/CC/C=C(\C)/CC/C=C(/C)\C(=O)O)O,Unspecified,,,,Activity,=,3.4,%,
+10,469801512,164610999,CC1=CC(=CC2=C1O[C@](CC2)(C)CC/C=C(\C)/CCC=C(CO)CO)O,Unspecified,,,,Activity,=,36.3,%,
+11,469802056,164611393,CC1=CC(=C(C2=C1O[C@](CC2)(C)CC/C=C(\C)/CC/C=C(\C)/CCC=C(CO)CO)C=O)O,Unspecified,,,,Activity,=,6.1,%,
+12,469802990,126648083,CC1=C(C2=C(CC[C@@](O2)(C)CC/C=C(\C)/CC/C=C(\C)/CCC=C(CO)CO)C(=C1O)C)C,Unspecified,,,,Activity,=,0.5,%,
+13,469803202,164612221,CC1=CC(=C(C2=C1O[C@](CC2)(C)CC/C=C(\C)/CC/C=C(\C)/CCC=C(CO)CO)CN3CCCC3)O,Unspecified,,,,Activity,=,17.4,%,
+14,469803277,164612278,CC1=CC(=CC2=C1O[C@](CC2)(C)CC/C=C(\C)/CC/C=C(\C)/CCCC(C)C(=O)O)O,Unspecified,,,,Activity,=,3.8,%,
+15,469803831,164612696,CC1=CC2=C(C=C(C(=O)O2)C(=O)C)C3=C1O[C@](CC3)(C)CC/C=C(\C)/CC/C=C(\C)/CCC=C(CO)CO,Unspecified,,,,Activity,=,15.3,%,
+16,469803904,164612744,CC1=CC(=C(C2=C1O[C@](CC2)(C)CC/C=C(\C)/CC/C=C(\C)/CCCC(C)C(=O)O)C)O,Unspecified,,,,Activity,=,14.2,%,
+17,469804409,164613112,CC1=C2C(=C(C3=C1CC[C@@](O3)(C)CC/C=C(\C)/CC/C=C(\C)/CCC=C(CO)CO)C)C=C(C(=O)O2)C(=O)C,Unspecified,,,,Activity,=,12.4,%,
+18,469805149,164613624,CC1=CC(=CC2=C1O[C@](CC2)(C)CC/C=C(\C)/CC/C=C(\C)/CC/C=C/C(=O)O)O,Unspecified,,,,Activity,=,26.9,%,
+19,469805516,164613885,CC1=C2CC[C@@](OC2=C(C(=C1O)CO)C)(C)CC/C=C(\C)/CC/C=C(\C)/CCC=C3COC(OC3)C4=CC(=C(C=C4)OC)OC,Unspecified,,,,Activity,=,22.2,%,
+20,469805898,164614143,CC1=CC(=CC2=C1O[C@](CC2)(C)CC/C=C(\C)/CC/C=C(\C)/CCC=C(CO)CO)OC(=O)CCC(=O)O,Unspecified,,,,Activity,=,26.4,%,
+21,469806533,164614599,CC1=C(C(=C(C2=C1O[C@](CC2)(C)CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/C(=O)O)CN(C)C)O)CN(C)C,Unspecified,,,,Activity,=,82.1,%,
+22,469808160,164615788,CC1=CC(=CC2=C1O[C@](CC2)(C)CCCC(C)CCCC(C)CCCC(C)C(=O)O)O,Unspecified,,,,Activity,=,40.8,%,
+23,469809124,164616480,CC1=CC(=CC2=C1O[C@](CC2)(C)CC/C=C(\C)/CC/C=C(\C)/CCC=C3COC(OC3)C4=CC(=C(C=C4)OC)OC)O,Inconclusive,,,Potential missing data,Activity,,,,Not Determined
+24,469810550,53481452,CC1=C(C2=C(CC[C@@](O2)(C)CC/C=C(\C)/CC/C=C(\C)/CCC(=O)O)C(=C1O)C)C,Unspecified,,,,Activity,=,10.6,%,
+25,469811165,164617967,CC1=C2CC[C@@](OC2=C(C(=C1O)C=O)C)(C)CC/C=C(\C)/CC/C=C(\C)/CCC=C3COC(OC3)C4=CC(=C(C=C4)OC)OC,Unspecified,,,,Activity,=,84,%,
+26,469811943,164618529,CC1=CC(=C(C2=C1O[C@](CC2)(C)CC/C=C(\C)/CC/C=C(\C)/CCC=C(CO)CO)CN3CCOCC3)O,Unspecified,,,,Activity,=,11.3,%,
+27,469812402,164618866,CC1=CC(=C(C2=C1O[C@](CC2)(C)CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/C(=O)OC)C(=O)OC)O,Unspecified,,,,Activity,=,79.9,%,
+28,469813388,164619582,CC1=C2CC[C@@](OC2=C(C(=C1O)C=O)C)(C)CC/C=C(\C)/CC/C=C(\C)/CCC=C(CO)CO,Unspecified,,,,Activity,=,7.5,%,
+29,469813557,164619695,CC1=CC(=CC2=C1O[C@](CC2)(C)CC/C=C(\C)/CC/C=C(\C)/CCCC(C)C(=O)O)OC,Inconclusive,,,Potential missing data,Activity,,,,Not Determined
+30,469814014,164620012,CC1=CC(=CC2=C1O[C@](CC2)(C)CC/C=C(\C)/CC/C=C(\C)/CCCC(C)C(=O)OC)OC,Inconclusive,,,Potential missing data,Activity,,,,Not Determined
+31,469815446,53481464,CC1=C(C=C2CC[C@@](OC2=C1C)(C)CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/C(=O)O)O,Unspecified,,,,Activity,=,1.6,%,
+32,469817214,164622348,CC1=CC(=C(C2=C1O[C@](CC2)(C)CC/C=C(\C)/CC/C=C(\C)/CCC=C(CO)CO)CN3CCCCC3)O,Unspecified,,,,Activity,=,11.7,%,
+33,469818842,164623520,CC1=CC(=C(C2=C1O[C@](CC2)(C)CC/C=C(\C)/CC/C=C(\C)/CCC=C(CO)CO)CN(C)C)O,Unspecified,,,,Activity,=,63.9,%,
+34,469819130,126647958,CC1=CC(=C(C2=C1O[C@](CC2)(C)CC/C=C(\C)/CC/C=C(\C)/CCC=C(CO)CO)C)O,Unspecified,,,,Activity,=,0.9,%,
+35,469819264,164623831,CC1=CC(=CC2=C1O[C@](CC2)(C)CC/C=C(\C)/CC/C=C(\C)/CCC=C(CO)CO)OCC(=O)N,Inconclusive,,,Potential missing data,Activity,,,,Not Determined
+36,469819582,164624068,CC1=CC(=CC2=C1O[C@](CC2)(C)CCCC(C)CCCC(C)CCCC(CO)CO)O,Unspecified,,,,Activity,=,81.3,%,
+37,469819661,164624129,CC1=CC(=CC2=C1O[C@](CC2)(C)CC/C=C(\C)/CC/C=C(\C)/CCCC(C)C(=O)OC)O,Unspecified,,,,Activity,=,14.1,%,
+38,469820778,164624912,CC1=CC(=CC2=C1O[C@](CC2)(C)CCC=C(CO)CO)O,Unspecified,,,,Activity,=,86.4,%,
+39,469823747,164626523,CC1=CC(=C(C2=C1O[C@](CC2)(C)CC/C=C(\C)/CC/C=C(\C)/CCC=C3COC(OC3)C4=CC=C(C=C4)[N+](=O)[O-])CO)O,Unspecified,,,,Activity,=,15.4,%,
+40,469823975,164626681,CC1=CC(=CC2=C1O[C@](CC2)(C)CC/C=C(\C)/CC/C=C(\C)/CCC=C3COC(OC3)C4=CC(=C(C=C4)OC)OC)OCCCC(=O)O,Inconclusive,,,Potential missing data,Activity,,,,Not Determined
+41,469825179,164627248,CC1=CC(=C(C2=C1O[C@](CC2)(C)CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/C(=O)O)CN(C)C)O,Unspecified,,,,Activity,=,33.1,%,
+42,469826018,164627695,CC1=CC(=CC2=C1O[C@](CC2)(C)CC/C=C(\C)/CCC(C(C)(CCC=C(CO)CO)O)O)O,Inconclusive,,,Potential missing data,Activity,,,,Not Determined
+43,469826520,164627963,CC1=CC(=CC2=C1O[C@](CC2)(C)CC/C=C(\C)/C(=O)O)O,Unspecified,,,,Activity,=,88.8,%,
+44,469826674,164628070,CCOC(=O)C1=CC2=C(C=C(C3=C2CC[C@@](O3)(C)CC/C=C(\C)/CC/C=C(\C)/CCC=C(CO)CO)C)OC1=O,Unspecified,,,,Activity,=,8.1,%,
+45,469827903,126647966,CC1=C(C(=C(C2=C1O[C@](CC2)(C)CC/C=C(\C)/CC/C=C(\C)/CCC=C(CO)CO)CN3CCN(CC3)C)O)CN4CCN(CC4)C,Unspecified,,,,Activity,=,77.8,%,
+46,469827935,164628663,CC1=CC(=CC2=C1O[C@](CC2)(C)CC/C=C/C(=O)O)O,Unspecified,,,,Activity,=,101.4,%,
+47,469839351,126647961,CC1=CC(=C(C2=C1O[C@](CC2)(C)CC/C=C(\C)/CC/C=C(\C)/CCC=C(CO)CO)CN3CCN(CC3)C)O,Unspecified,,,,Activity,=,21.6,%,

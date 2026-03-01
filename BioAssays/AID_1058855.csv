@@ -1,0 +1,19 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,Standard Type,Standard Relation,Standard Value,Standard Units
+RESULT_TYPE,,,,,,,,STRING,STRING,FLOAT,STRING
+RESULT_DESCR,,,,,,,,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM,Selected units for 'Standard Type': e.g. concentrations are in nM
+1,103205165,9795646,CCCCCCCCCCC1=C(C(=CC=C1)O)C(=O)O,Unspecified,,,,Inhibition,<,50,%
+2,103315754,10360553,CCCCCCCCCCCCCCOC1=CC=CC(=C1C(=O)O)O,Unspecified,,,,Inhibition,<,50,%
+3,103581603,10976685,CCCCCC1=C(C(=CC=C1)O)C(=O)O,Unspecified,,,,Inhibition,<,50,%
+4,104240856,11574136,CCCCCCCCCCCCCCCC1=C(C(=CC(=C1)O)O)C(=O)O,Unspecified,,,,Inhibition,<,50,%
+5,104241934,49864204,CCCCCCCC1=CC=C(C=C1)CCC2=C(C(=CC=C2)O)C(=O)O,Unspecified,,,,Inhibition,<,50,%
+6,124961325,13269,C1=CC=C(C(=C1)C2=NC3=CC=CC=C3O2)O,Unspecified,,,,Inhibition,=,50,%
+7,136941340,57401243,CCCCCCCC1=CC=C(C=C1)CCC2=C(C(=CC(=C2)O)O)C(=O)O,Unspecified,,,,Inhibition,<,50,%
+8,160693252,167551,CCCCCCCCCCCCCCCC1=C(C(=CC=C1)O)C(=O)O,Unspecified,,,,Inhibition,<,50,%
+9,194138583,72735399,CCCCCCCCCOC1=CC=CC(=C1)COC2=CC=CC(=C2C(=O)O)O,Unspecified,,,,Inhibition,<,50,%
+10,194145508,72735218,CCCCCOC1=CC=C(C=C1)COC2=CC=CC(=C2C(=O)[O-])O.[K+],Unspecified,,,,Inhibition,<,50,%
+11,194145509,72735220,CCCCCCCOC1=CC=C(C=C1)COC2=CC=CC(=C2C(=O)[O-])O.[K+],Unspecified,,,,Inhibition,<,50,%
+12,194159307,72735216,CCCCCCCCCCC1=CC=C(C=C1)CCC2=C(C(=CC(=C2)O)O)C(=O)O,Unspecified,,,,Inhibition,<,50,%
+13,194159308,72735217,CCCCCCCCCOC1=CC=CC(=C1C(=O)O)O,Unspecified,,,,Inhibition,<,50,%
+14,194166309,72735222,CCCCCCCCCOC1=CC=C(C=C1)COC2=CC=CC(=C2C(=O)[O-])O.[K+],Unspecified,,,,Inhibition,<,50,%
+15,194166310,72735226,CCCCCCCOC1=CC=CC(=C1)COC2=CC=CC(=C2C(=O)O)O,Unspecified,,,,Inhibition,<,50,%
+16,194173139,72735224,CC(C)CCCC(C)CCOC1=CC=C(C=C1)COC2=CC=CC(=C2C(=O)[O-])O.[K+],Unspecified,,,,Inhibition,<,50,%

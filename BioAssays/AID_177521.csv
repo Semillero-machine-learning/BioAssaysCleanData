@@ -1,0 +1,14 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,Standard Type,Standard Relation,Standard Value,Standard Units
+RESULT_TYPE,,,,,,,,STRING,STRING,FLOAT,STRING
+RESULT_DESCR,,,,,,,,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM,Selected units for 'Standard Type': e.g. concentrations are in nM
+1,103360539,10679286,CC1=NC(=CC=C1)N2CCNC(=O)N2,Unspecified,,,,ED50,=,17,mg.kg-1
+2,103360596,10059051,C1CN(NC(=O)N1)C2=NC(=CC=C2)Cl,Unspecified,,,,ED50,=,16,mg.kg-1
+3,103360750,10702459,C1CN(NC(=O)N1)C2=CC=CC=N2,Unspecified,,,,ED50,=,8,mg.kg-1
+4,103360758,10726380,CC1CN(NC(=O)N1)C2=CC=CC=C2,Unspecified,,,,ED50,=,13,mg.kg-1
+5,103360767,10822398,C1CN(NC(=O)N1)C2=CC(=CC=C2)Cl,Unspecified,,,,ED50,=,18,mg.kg-1
+6,103360827,10513083,CC(C)C1CN(NC(=O)N1)C2=CC=CC=C2,Unspecified,,,,ED50,=,59,mg.kg-1
+7,103360828,10726930,CCC1CN(NC(=O)N1)C2=CC=CC=C2,Unspecified,,,,ED50,=,24,mg.kg-1
+8,103360907,10488467,CCC1=CC(=CC=C1)N2CCNC(=O)N2,Unspecified,,,,ED50,=,24,mg.kg-1
+9,103360991,10130205,C1CN(NC(=O)N1)C2=CC=CC=C2,Unspecified,,,,ED50,=,7,mg.kg-1
+10,103361022,10655329,CC1=CC(=CC=C1)N2CCNC(=O)N2,Unspecified,,,,ED50,=,18,mg.kg-1
+11,103361454,10587216,C1CN(NC(=O)N1)C2=NC(=CC=C2)Br,Unspecified,,,,ED50,=,41,mg.kg-1

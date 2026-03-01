@@ -1,0 +1,15 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,Standard Type,PubChem Standard Value,IC50,Target Accession(s),Ligand,Target
+RESULT_TYPE,,,,,,,,STRING,FLOAT,FLOAT,TARGET_NCBI_PROTEIN_ACCESSION,STRING,STRING
+RESULT_DESCR,,,,,,,,"Standardized activity type (i.e. Ki, IC50, Kd, or EC50)","PubChem standardized value transformed from the value of Ki, IC50, Kd, or EC50. The unit is always micromolar.",,Protein accession(s) of target,BindingDB Ligand,BindingDB Target
+RESULT_UNIT,,,,,,,,,MICROMOLAR,NANOMOLAR,,,
+RESULT_IS_ACTIVE_CONCENTRATION,,,,,,,,,TRUE,,,,
+1,49846133,11530690,CCOC(=O)C1=C(NC2=C1C=C(C=C2)O)N3CCN(CC3)C4=CC=CC=C4,Active,,,,IC50,3.1,3100,P09917,BDBM22318,Polyunsaturated fatty acid 5-lipoxygenase
+2,49846137,11596459,CCOC(=O)C1=C(NC2=C1C=C(C=C2)O)N3CCN(CC3)C4=CC=C(C=C4)Cl,Active,,,,IC50,2.3,2300,P09917,BDBM22322,Polyunsaturated fatty acid 5-lipoxygenase
+3,49846139,11500329,CCOC(=O)C1=C(NC2=C1C=C(C=C2)O)NC3=CC=CC=C3,Active,,,,IC50,2.3,2300,P09917,BDBM22324,Polyunsaturated fatty acid 5-lipoxygenase
+4,49846140,11602022,CCOC(=O)C1=C(NC2=C1C=C(C=C2)O)NC3=CC=C(C=C3)C,Active,,,,IC50,5,5000,P09917,BDBM22325,Polyunsaturated fatty acid 5-lipoxygenase
+5,49846141,11674232,CCOC(=O)C1=C(NC2=C1C=C(C=C2)O)NC(C)C3=CC=CC=C3,Active,,,,IC50,3,3000,P09917,BDBM22326,Polyunsaturated fatty acid 5-lipoxygenase
+6,49846144,11645226,CCOC(=O)C1=C(NC2=CC=CC=C21)NC(C)C3=CC=CC=C3,Active,,,,IC50,9.8,9800,P09917,BDBM22329,Polyunsaturated fatty acid 5-lipoxygenase
+7,49846145,11637678,CC(C1=CC=CC=C1)NC2=C(C3=C(N2)C=CC(=C3)O)C#N,Inactive,,,,IC50,10,10000,P09917,BDBM22330,Polyunsaturated fatty acid 5-lipoxygenase
+8,49846146,11500409,CCOC(=O)C1=C(NC2=C1C=C(C=C2)O)N(CC=C)CC=C,Active,,,,IC50,7.1,7100,P09917,BDBM22331,Polyunsaturated fatty acid 5-lipoxygenase
+9,49846147,11530031,CCOC(=O)C1=C(NC2=C1C=C(C=C2)O)NC3=CC(=CC=C3)Cl,Active,,,,IC50,0.3,300,P09917,BDBM22332,Polyunsaturated fatty acid 5-lipoxygenase
+10,49846149,6438354,CC(=O)N(C/C=C/C1=CC(=CC=C1)OC2=CC=CC=C2)O,Active,,,,IC50,0.15,150,P09917,BDBM22334,Polyunsaturated fatty acid 5-lipoxygenase

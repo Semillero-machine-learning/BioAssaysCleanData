@@ -1,0 +1,12 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,PubChem Standard Value,Standard Type,Standard Relation,Standard Value,Standard Units,Activity Comment
+RESULT_TYPE,,,,,,,,FLOAT,STRING,STRING,FLOAT,STRING,STRING
+RESULT_DESCR,,,,,,,,PubChem standardized value transformed from 'Standard Value'. The unit is always micromolar,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM,Selected units for 'Standard Type': e.g. concentrations are in nM,Additional comments
+RESULT_UNIT,,,,,,,,MICROMOLAR,,,,,
+RESULT_IS_ACTIVE_CONCENTRATION,,,,,,,,TRUE,,,,,
+RESULT_IS_ACTIVE_CONCENTRATION_QUALIFIER,,,,,,,,,,TRUE,,,
+1,103172204,60490,CC(C1=CC2=CC=CC=C2S1)N(C(=O)N)O,Active,,,,2.31,IC50,=,2310,nM,
+2,103323115,5281787,C1=CC=C(C=C1)CCOC(=O)/C=C/C2=CC(=C(C=C2)O)O,Active,,,,0.97,IC50,=,970,nM,
+3,103369498,5909099,C1=CC=C(C=C1)CCOC(=O)/C=C/C2=C(C=CC(=C2)O)O,Active,,,,0.33,IC50,=,330,nM,
+4,103369498,5909099,C1=CC=C(C=C1)CCOC(=O)/C=C/C2=C(C=CC(=C2)O)O,Unspecified,,,Potential missing data,,Inhibition,,,%,Dose-dependent effect
+5,440211169,155562130,C1=CC=C(C=C1)CCOC(=O)/C=C/C2=C(C(=CC=C2)O)O,Active,,,,0.89,IC50,=,890,nM,
+6,440218752,155565163,C1=CC=C(C=C1)CCC(=O)/C=C/C2=C(C=CC(=C2)O)O,Active,,,,0.53,IC50,=,530,nM,

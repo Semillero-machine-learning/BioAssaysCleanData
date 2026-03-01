@@ -1,0 +1,16 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,Standard Type,Standard Relation,Standard Value,Standard Units
+RESULT_TYPE,,,,,,,,STRING,STRING,FLOAT,STRING
+RESULT_DESCR,,,,,,,,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM,Selected units for 'Standard Type': e.g. concentrations are in nM
+1,318387549,5374732,CC(=O)OC1=C(C=C(C=C1)/C=C/C(=O)O)OC(=O)C,Unspecified,,,,Activity,=,90.3,%
+2,318387550,122188662,CC(=O)OC1=C(C=C(C=C1)/C=C/C(=O)OCCC#C)OC(=O)C,Unspecified,,,,Activity,=,50.2,%
+3,318387551,122188663,CC(=O)OC1=C(C=C(C=C1)/C=C/C(=O)OCCCCC#C)OC(=O)C,Unspecified,,,,Activity,=,84.3,%
+4,318387552,122188664,CC(=O)OC1=C(C=C(C=C1)/C=C/C(=O)OCCCCCC#C)OC(=O)C,Unspecified,,,,Activity,=,70.7,%
+5,318387553,122188665,CC(=O)OC1=C(C=C(C=C1)/C=C/C(=O)OCCCCCCCCC#C)OC(=O)C,Unspecified,,,,Activity,=,71.8,%
+6,318387554,122188666,CC(=O)OC1=C(C=C(C=C1)/C=C/C(=O)NCCC#C)OC(=O)C,Unspecified,,,,Activity,=,53.5,%
+7,318387555,122188667,C#CCCOC(=O)/C=C/C1=CC(=C(C=C1)F)F,Unspecified,,,,Activity,=,52.6,%
+8,318387556,122188668,CC(=O)OC1=C(C=C(C=C1)/C=C/C(=O)CCCN=[N+]=[N-])OC(=O)C,Unspecified,,,,Activity,=,73.9,%
+9,318387561,122188673,CC(=O)OC1=C(C=C(C=C1)/C=C/C(=O)NCCC2=CN=NN2CCCO)OC(=O)C,Unspecified,,,,Activity,=,53.6,%
+10,318387562,122188674,C1=CC(=C(C=C1/C=C/C(=O)OCCC2=CN=NN2CCCO)F)F,Unspecified,,,,Activity,=,90.3,%
+11,318387564,122188676,CC(=O)OC1=C(C=C(C=C1)/C=C/C(=O)OCCCN2C=C(N=N2)CCOC(=O)/C=C/C3=CC(=C(C=C3)OC(=O)C)OC(=O)C)OC(=O)C,Unspecified,,,,Activity,=,81.3,%
+12,318387565,122188677,CC1=C(C(=C(C2=C1OC(CC2)(C)C(=O)OCCCN3C(=CN=N3)CCOC(=O)/C=C/C4=CC(=C(C=C4)OC(=O)C)OC(=O)C)C)OC(=O)C)C,Unspecified,,,,Activity,=,60.5,%
+13,318387566,122188678,CC1=C(C(=C(C2=C1OC(CC2)(C)C(=O)OCCCN=[N+]=[N-])C)OC(=O)C)C,Unspecified,,,,Activity,=,86.3,%

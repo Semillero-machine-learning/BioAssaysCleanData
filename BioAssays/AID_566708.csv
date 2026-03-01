@@ -1,0 +1,20 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,PubChem Standard Value,Standard Type,Standard Relation,Standard Value,Standard Units,Data Validity Comment
+RESULT_TYPE,,,,,,,,FLOAT,STRING,STRING,FLOAT,STRING,STRING
+RESULT_DESCR,,,,,,,,PubChem standardized value transformed from 'Standard Value'. The unit is always micromolar,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM,Selected units for 'Standard Type': e.g. concentrations are in nM,Comment reflecting whether the values for this activity measurement are likely to be correct
+RESULT_UNIT,,,,,,,,MICROMOLAR,,,,,
+RESULT_IS_ACTIVE_CONCENTRATION,,,,,,,,TRUE,,,,,
+RESULT_IS_ACTIVE_CONCENTRATION_QUALIFIER,,,,,,,,,,TRUE,,,
+1,103198538,1990,CC(=O)NO,Unspecified,,,,15000,IC50,=,1.5e+07,nM,Outside typical range
+2,103284327,1923,C1=CC2=C(C(=C1)O)N=CC=C2,Unspecified,,,,130,IC50,=,130000,nM,
+3,103350545,10789,C1=CC=C(C(=O)C=C1)O,Unspecified,,,,146,IC50,=,146000,nM,
+4,124956084,50925490,C1=CC2=C(C(=C(C=C2)NS(=O)(=O)C3=CC=C(C=C3)F)O)N=C1,Active,,,,3,IC50,=,3000,nM,
+5,124958648,2734394,C1=CNC(=O)NC1=S,Unspecified,,,,121,IC50,=,121000,nM,
+6,124958702,50941566,C1=CC=C(C=C1)C2=CC=C(C=C2)S(=O)(=O)NC3=C4C=CC=NC4=C(C=C3)O,Unspecified,,,,10.8,IC50,=,10800,nM,
+7,124961326,50941569,C1=CC=C(C=C1)C2=CC=C(C=C2)S(=O)(=O)NC3=C(C4=C(C=CC=N4)C=C3)O,Active,,,,3.9,IC50,=,3900,nM,
+8,124966583,50941564,C1=CC=C(C=C1)S(=O)(=O)NC2=C3C=CC=NC3=C(C=C2)O,Active,,,,8.8,IC50,=,8800,nM,
+9,124966584,50941747,C1=CC2=C(C(=C(C=C2)NS(=O)(=O)C3=CC=CS3)O)N=C1,Active,,,,4.3,IC50,=,4300,nM,
+10,124970934,50941565,C1=CC2=C(C=CC(=C2N=C1)O)NS(=O)(=O)C3=CC=C(C=C3)F,Active,,,,7.2,IC50,=,7200,nM,
+11,124972309,11355488,C1=COC=C(C1=S)O,Unspecified,,,,76,IC50,=,76000,nM,
+12,124974499,68443,C1=CC(=C(C(=C1)N)O)C(=O)O,Unspecified,,,,389,IC50,=,389000,nM,
+13,124974500,50941567,C1=CC2=C(C=CC(=C2N=C1)O)NS(=O)(=O)C3=CC=CS3,Active,,,,8.4,IC50,=,8400,nM,
+14,124974501,50941568,C1=CC=C(C=C1)S(=O)(=O)NC2=C(C3=C(C=CC=N3)C=C2)O,Active,,,,5.6,IC50,=,5600,nM,

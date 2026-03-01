@@ -1,0 +1,27 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,Standard Type,Activity Comment
+RESULT_TYPE,,,,,,,,STRING,STRING
+RESULT_DESCR,,,,,,,,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),Additional comments
+1,103681893,45267718,CCCCC(C(=O)O)SC1=CC=C(C=C1)OCCCOC2=CC=CC(=C2)C,Unspecified,,,Potential missing data,Activity,Non-toxic
+2,103681913,45267726,CCCCC(C(=O)O)SC1=CC=C(C=C1)OCCCOC2=CC=CC=C2C(C)C,Unspecified,,,Potential missing data,Activity,Non-toxic
+3,103683611,45268597,CCCCC(C(=O)O)SC1=CC=C(C=C1)OCCCOC2=CC=CC(=C2)C(F)(F)F,Unspecified,,,Potential missing data,Activity,Non-toxic
+4,103683622,45268605,CCCC/C(=C\C1=CC=C(C=C1)OCCCOC2=CC=CC(=C2C)C)/C(=O)O,Unspecified,,,Potential missing data,Activity,Non-toxic
+5,103683631,45268611,CCCCC(CC1=CC=C(C=C1)OCCCOC2=CC=CC(=C2C)C)C(=O)O,Unspecified,,,Potential missing data,Activity,Non-toxic
+6,103685307,45269442,CCCCC(C(=O)O)SC1=CC=C(C=C1)OCCCOC2=CC=CC=C2OC,Unspecified,,,Potential missing data,Activity,Non-toxic
+7,103685323,45269452,CCCCC(C(=O)O)SC1=CC=C(C=C1)OCCCOC2=CC=C(C=C2)C3=CC=CC=C3,Unspecified,,,Potential missing data,Activity,Non-toxic
+8,103685324,45269453,CC1=C(C(=CC=C1)OCCCOC2=CC=C(C=C2)CCC(=O)O)C,Unspecified,,,Potential missing data,Activity,Non-toxic
+9,103687117,45270286,CCCCC(C(=O)O)SC1=CC=C(C=C1)OCCCOC2=CC=CC(=C2)C(C)C,Unspecified,,,Potential missing data,Activity,Non-toxic
+10,103687125,45270291,CCCCC(C(=O)O)SC1=CC=C(C=C1)OCCCOC2=CC3=C(C=C2)N=CC=C3,Unspecified,,,Potential missing data,Activity,Non-toxic
+11,103688869,44249905,CCCC[C@H](C(=O)O)SC1=CC=C(C=C1)OCCCOC2=CC=CC(=C2C)C,Unspecified,,,Potential missing data,Activity,Non-toxic
+12,103688870,45271105,CCCC[C@@H](C(=O)O)SC1=CC=C(C=C1)OCCCOC2=CC=CC(=C2C)C,Unspecified,,,Potential missing data,Activity,Non-toxic
+13,103688880,45271112,CCCCC(C(=O)O)SC1=CC=C(C=C1)OCCCOC2=CC(=C(C=C2)Cl)C(F)(F)F,Unspecified,,,Potential missing data,Activity,Non-toxic
+14,103690556,45271974,CCCCC(C(=O)O)SC1=CC=C(C=C1)OCCCOC2=CC=CC=C2,Unspecified,,,Potential missing data,Activity,Non-toxic
+15,103690571,45271983,CCCCC(C(=O)O)SC1=CC=C(C=C1)OCCCOC2=CC=CC=C2C,Unspecified,,,Potential missing data,Activity,Non-toxic
+16,103690585,45271992,CCCCC(C(=O)O)SC1=CC=C(C=C1)OCCCOC2=CC=CC(=C2)OC,Unspecified,,,Potential missing data,Activity,Non-toxic
+17,103692343,45272810,CCCCC(C(=O)O)SC1=CC=C(C=C1)OCCCOC2=CC=C(C=C2)C,Unspecified,,,Potential missing data,Activity,Non-toxic
+18,103692355,45272820,CCCCC(C(=O)O)SC1=CC=C(C=C1)OCCCOC2=CC=CC3=C2CCCC3,Unspecified,,,Potential missing data,Activity,Non-toxic
+19,103694183,45273770,CCCCC(C(=O)O)SC1=CC=C(C=C1)OCCCOC2=CC=CC(=C2C)C,Unspecified,,,Potential missing data,Activity,Non-toxic
+20,103694200,45273780,CC1=C(C(=CC=C1)OCCCOC2=CC=C(C=C2)SCC(=O)O)C,Unspecified,,,Potential missing data,Activity,Non-toxic
+21,131273380,54580674,CCCCC(C(=O)OCC)SC1=CC=C(C=C1)OCCCOC2=CC=CC3=C2CCCC3,Unspecified,,,Potential missing data,Activity,Non-toxic
+22,131275376,54581686,CCCCC(C(=O)OCC)SC1=CC=C(C=C1)OCCCOC2=CC=C(C=C2)C3=CC=CC=C3,Unspecified,,,Potential missing data,Activity,Non-toxic
+23,131279405,54583638,CCCCC(C(=O)OCC)SC1=CC=C(C=C1)OCCCOC2=CC3=C(C=C2)N=CC=C3,Unspecified,,,Potential missing data,Activity,Non-toxic
+24,131283416,54585561,CCCCC(C(=O)O)SC1=CC=C(C=C1)OCCCOC2=C(C=C(C=C2)Cl)OC,Unspecified,,,Potential missing data,Activity,Non-toxic

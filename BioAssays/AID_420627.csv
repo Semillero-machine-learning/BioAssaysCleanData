@@ -1,0 +1,18 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,Standard Type,Standard Relation,Standard Value,Standard Units
+RESULT_TYPE,,,,,,,,STRING,STRING,FLOAT,STRING
+RESULT_DESCR,,,,,,,,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM,Selected units for 'Standard Type': e.g. concentrations are in nM
+1,103202029,3651377,CC(C)C1=CC2=C(C=C1)N(C(=C2SC(C)(C)C)CC(C)(C)C(=O)O)CC3=CC=C(C=C3)Cl,Unspecified,,,,Activity,=,22.5,%
+2,103243059,10066564,C1CC2=C(C(=C(N2C1)CC(=O)O)C3=CC=C(C=C3)Cl)C4=CC=CC=C4,Unspecified,,,,Activity,=,65.3,%
+3,103243188,133021,CC1(CC2=C(C(=C(N2C1)CC(=O)O)C3=CC=C(C=C3)Cl)C4=CC=CC=C4)C,Unspecified,,,,Activity,=,44.9,%
+4,103243275,10045902,CC1(CC2=C(C(=C(N2C1)CC(=O)O)C3=CC=C(C=C3)[N+](=O)[O-])C4=CC=CC=C4)C,Unspecified,,,,Activity,=,58.8,%
+5,103243409,10341007,CC1(CC2=C(C(=C(N2C1)CC(=O)O)C3=CC=C(C=C3)C(C)(C)C)C4=CC=CC=C4)C,Unspecified,,,,Activity,=,53.8,%
+6,103680594,21217854,CC1(CC2=C(C(=C(N2C1)CC(=O)O)C3=CC=C(C=C3)C(F)(F)F)C4=CC=CC=C4)C,Unspecified,,,,Activity,=,56.1,%
+7,103682328,44221348,CC1(CC2=C(C(=C(N2C1)CC(=O)NS(=O)(=O)C)C3=CC=C(C=C3)Cl)C4=CC=CC=C4)C,Unspecified,,,,Activity,=,63.1,%
+8,103682330,44221548,CCC1(CC2=C(C(=C(N2C1)CC(=O)NS(=O)(=O)C)C3=CC=C(C=C3)Cl)C4=CC=CC=C4)CC,Unspecified,,,,Activity,=,38.5,%
+9,103684040,44221151,CC1(CC2=C(C(=C(N2C1)CC3=NNN=N3)C4=CC=C(C=C4)Cl)C5=CC=CC=C5)C,Unspecified,,,,Activity,=,27.9,%
+10,103685782,45269638,CC1(CC2=C(C(=C(N2C1)CC(=O)O)C3=CC4=C(C=C3)C=CO4)C5=CC=CC=C5)C,Unspecified,,,,Activity,=,42.1,%
+11,103687604,44221754,CC1=CC=C(C=C1)S(=O)(=O)NC(=O)CCC2=C(C(=C3N2CC(C3)(C)C)C4=CC=CC=C4)C5=CC=C(C=C5)Cl,Unspecified,,,,Activity,=,23.2,%
+12,103689275,14855811,C1CC2=C(C(=C(N2C1)CCC(=O)O)C3=CC=C(C=C3)Cl)C4=CC=CC=C4,Unspecified,,,,Activity,=,20.8,%
+13,103689286,44221753,CC1=CC=C(C=C1)S(=O)(=O)NC(=O)CC2=C(C(=C3N2CC(C3)(C)C)C4=CC=CC=C4)C5=CC=C(C=C5)Cl,Unspecified,,,,Activity,=,32.2,%
+14,103691040,14855860,CC1(CC2=C(C(=C(N2C1)CCC(=O)O)C3=CC=C(C=C3)Cl)C4=CC=CC=C4)C,Unspecified,,,,Activity,=,47.4,%
+15,103692855,44221149,CC1(CC2=C(C(=C(N2C1)CC(=O)NS(=O)(=O)C3=CC=CC=C3)C4=CC=C(C=C4)Cl)C5=CC=CC=C5)C,Unspecified,,,,Activity,=,28.7,%

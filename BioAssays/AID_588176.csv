@@ -1,0 +1,18 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,Standard Type,Standard Relation,Standard Value,Standard Units
+RESULT_TYPE,,,,,,,,STRING,STRING,FLOAT,STRING
+RESULT_DESCR,,,,,,,,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM,Selected units for 'Standard Type': e.g. concentrations are in nM
+1,124956804,53316966,C1=CC=C(C=C1)CC2=C(N(N=N2)CSC3=CC=CC=C3)C4=CC=C(C=C4)C=O,Unspecified,,,,Inhibition,=,72.1,%
+2,124959447,51355966,CC1=CC=CC=C1CCN2C=C(N=N2)C3=CC=C(C=C3)C4=CC=CC=C4COC5=C(C=CC(=C5)C(F)(F)F)Cl,Unspecified,,,,Inhibition,=,87.9,%
+3,124960456,51356247,C1=CC=C(C=C1)CCCN2C=C(N=N2)C3=CC=C(C=C3)C4=CC=C(C=C4)OC5=CC=CC=C5,Unspecified,,,,Inhibition,=,88.7,%
+4,124962091,51355699,C1=CC=C(C=C1)CCCN2C=C(N=N2)C3=CC=C(C=C3)C4=CC5=CC=CC=C5C6=CC=CC=C64,Unspecified,,,,Inhibition,=,78.2,%
+5,124964669,51355701,C1=CC=C(C=C1)CCCN2C=C(N=N2)C3=CC=C(C=C3)C4=CC=C(C=C4)O,Unspecified,,,,Inhibition,=,73.6,%
+6,124964670,51355967,C1=CC=C2C(=C1)C=CC=C2OCC3=CC=CC=C3C4=CC=C(C=C4)C5=CN(N=N5)S(=O)(=O)C6=CC=C(C=C6)C(=O)O,Unspecified,,,,Inhibition,=,59.8,%
+7,124964671,51356246,CC1=CC=CC=C1CCN2C=C(N=N2)C3=CC=C(C=C3)C4=CC=C(C=C4)N,Unspecified,,,,Inhibition,=,98.2,%
+8,124967383,51355697,C1=CC=C(C=C1)SCN2C=C(N=N2)C3=CC=C(C=C3)C4=CC=C(C=C4)O,Unspecified,,,,Inhibition,=,89,%
+9,124967384,51355968,CN(C)C1=CC=CC2=C1C=CC=C2S(=O)(=O)NC3=CC=C(C=C3)C4=CC=C(C=C4)C5=CN(N=N5)CCCC6=CC=CC=C6,Unspecified,,,,Inhibition,=,85,%
+10,124968632,51355702,C1=CC=C(C=C1)CCCN2C=C(N=N2)C3=CC=C(C=C3)C4=CC=CC=C4COC5=CC=CC6=CC=CC=C65,Unspecified,,,,Inhibition,=,96.8,%
+11,124970048,51355698,C1=CC=C(C=C1)SCN2C=C(N=N2)C3=CC=C(C=C3)C4=CC(=CC=C4)O,Unspecified,,,,Inhibition,=,60.1,%
+12,124971029,51355965,C1=CC=C(C=C1)CCCN2C=C(N=N2)C3=CC=C(C=C3)C4=CC=CC=C4COC5=C(C=CC(=C5)C(F)(F)F)Cl,Unspecified,,,,Inhibition,=,91.9,%
+13,124972641,51355427,C1=CC=C(C=C1)C2=CC=C(C=C2)C3=CN(N=N3)CC4=C(C=C(C=C4)C(=O)O)[N+](=O)[O-],Unspecified,,,,Inhibition,=,12,%
+14,124972642,51355969,CC1=CC=CC=C1CCN2C=C(N=N2)C3=CC=C(C=C3)C4=CC=CC=C4COC5=CC=CC6=CC=CC=C65,Unspecified,,,,Inhibition,=,90,%
+15,124975243,51355700,C1=CC=C(C=C1)C(=O)OCC2=CN(N=N2)CSC3=CC=CC=C3,Unspecified,,,,Inhibition,=,76.1,%

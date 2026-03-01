@@ -1,0 +1,9 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,Standard Type,Standard Relation,Standard Value
+RESULT_TYPE,,,,,,,,STRING,STRING,FLOAT
+RESULT_DESCR,,,,,,,,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM
+1,103325933,11725370,C1=CC=C(C(=C1)N)SC2C3=C(C(=CC=C3)O)C(=O)C4=C2C=CC=C4O,Unspecified,,,,pKa,=,8.4
+2,103325960,10784985,COC1=CC=C(C=C1)SC2C3=C(C(=CC=C3)O)C(=O)C4=C2C=CC=C4O,Unspecified,,,,pKa,=,7.9
+3,103325981,10667872,CCCCOC(=O)CCSC1C2=C(C(=CC=C2)O)C(=O)C3=C1C=CC=C3O,Unspecified,,,,pKa,=,5.7
+4,103326031,13600407,C1=CC=C(C=C1)SC2C3=C(C(=CC=C3)O)C(=O)C4=C2C=CC=C4O,Unspecified,,,,pKa,=,5.4
+5,103326149,44336657,COC1=CC=C(C=C1)CSC2C3=C(C(=CC=C3)O)C(=O)C4=C2C=CC=C4O,Unspecified,,,,pKa,=,6.1
+6,103326311,9863229,C1=CC2=C(C(=C1)O)C(=O)C3=C(C2SC4=CC=C(C=C4)O)C=CC=C3O,Unspecified,,,,pKa,=,6.2

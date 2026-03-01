@@ -1,0 +1,17 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,Standard Type,Activity Comment
+RESULT_TYPE,,,,,,,,STRING,STRING
+RESULT_DESCR,,,,,,,,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),Additional comments
+1,461515357,162643576,CC1=C(C(=O)N(N1C)C2=CC=CC=C2)N=CC3=CN(C4=CC=CC=C43)CC(=O)NC5=CC=C(C=C5)O,Unspecified,,,Potential missing data,Activity,Toxic
+2,461518010,162645455,CC(=O)C1=CC=C(C=C1)NC(=O)CN2C=C(C3=CC=CC=C32)/C=N/N4C=NN=C4,Unspecified,,,Potential missing data,Activity,Toxic
+3,461519029,162646200,CC1=CC=C(C=C1)NC(=O)CN2C=C(C3=CC=CC=C32)C=NC4=C(N(N(C4=O)C5=CC=CC=C5)C)C,Unspecified,,,Potential missing data,Activity,Toxic
+4,461519468,162646530,CC1=CC=C(C=C1)NC(=O)CN2C=C(C3=CC=CC=C32)/C=N/N4C=NN=C4,Unspecified,,,Potential missing data,Activity,Toxic
+5,461523816,162649566,CCOC(=O)C1=CC=C(C=C1)NC(=O)CN2C=C(C3=CC=CC=C32)/C=N/N4C=NN=C4,Unspecified,,,Potential missing data,Activity,Toxic
+6,461535609,162657804,C1=CC=C(C=C1)NC(=O)CN2C=C(C3=CC=CC=C32)/C=N/N4C=NN=C4,Unspecified,,,Potential missing data,Activity,Toxic
+7,461539576,162660633,CCOC(=O)C1=CC=C(C=C1)NC(=O)CN2C=C(C3=CC=CC=C32)C=NC4=C(N(N(C4=O)C5=CC=CC=C5)C)C,Unspecified,,,Potential missing data,Activity,Toxic
+8,461540784,162661455,CC1=C(C(=O)N(N1C)C2=CC=CC=C2)N=CC3=CN(C4=CC=CC=C43)CC(=O)NC5=CC=C(C=C5)C(=O)C,Unspecified,,,Potential missing data,Activity,Toxic
+9,461541172,766629,CC1=C(C(=O)N(N1C)C2=CC=CC=C2)N=CC3=CNC4=CC=CC=C43,Unspecified,,,Potential missing data,Activity,Toxic
+10,461542012,162662307,CC1=C(C(=O)N(N1C)C2=CC=CC=C2)N=CC3=CN(C4=CC=CC=C43)CC(=O)NC5=CC=CC=C5,Unspecified,,,Potential missing data,Activity,Toxic
+11,461549467,162667514,CC1=C(C(=O)N(N1C)C2=CC=CC=C2)N=CC3=CN(C4=CC=CC=C43)CC(=O)NC5=CC=C(C=C5)OC,Unspecified,,,Potential missing data,Activity,Toxic
+12,461552635,162669756,C1=CC=C2C(=C1)C(=CN2CC(=O)NC3=CC=C(C=C3)O)/C=N/N4C=NN=C4,Unspecified,,,Potential missing data,Activity,Toxic
+13,461557166,162672975,COC1=CC=C(C=C1)NC(=O)CN2C=C(C3=CC=CC=C32)/C=N/N4C=NN=C4,Unspecified,,,Potential missing data,Activity,Toxic
+14,461562414,135459538,C1=CC=C2C(=C1)C(=CN2)/C=N/N3C=NN=C3,Unspecified,,,Potential missing data,Activity,Toxic

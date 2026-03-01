@@ -1,0 +1,42 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,PubChem Standard Value,Standard Type,Standard Relation,Standard Value,Standard Units,Activity Comment
+RESULT_TYPE,,,,,,,,FLOAT,STRING,STRING,FLOAT,STRING,STRING
+RESULT_DESCR,,,,,,,,PubChem standardized value transformed from 'Standard Value'. The unit is always micromolar,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM,Selected units for 'Standard Type': e.g. concentrations are in nM,Additional comments
+RESULT_UNIT,,,,,,,,MICROMOLAR,,,,,
+RESULT_IS_ACTIVE_CONCENTRATION,,,,,,,,TRUE,,,,,
+RESULT_IS_ACTIVE_CONCENTRATION_QUALIFIER,,,,,,,,,,TRUE,,,
+1,103443552,44389542,CC(C)C1=CC2=C(C=C1)N(C(=C2SC(C)(C)C)CC(C)(C)C(=O)O)CC=C,Active,,,,6.7,IC50,=,6700,nM,
+2,103443640,44389592,CC(C)C1=CC2=C(C=C1)N(C(=C2SC(C)(C)C)CC(C)(C)C(=O)O)CCCC3=CC=CC=C3,Active,,,,3.2,IC50,=,3200,nM,
+3,103443921,44389720,CC1=CC=CC=C1C(=O)C2=C(N(C3=C2C=C(C=C3)C(C)C)CC4=CC=C(C=C4)Cl)CC(C)(C)C(=O)O,Active,,,,0.9,IC50,=,900,nM,
+4,103444457,44390083,CC(C)C1=CC2=C(C=C1)N(C(=C2C(=O)CC(C)(C)C)CC(C)(C)C(=O)O)CC3=CC=C(C=C3)Cl,Active,,,,0.26,IC50,=,260,nM,
+5,103445264,44390610,CC1=C(N(C2=C1C=C(C=C2)C3=CC=C(C=C3)C4=CC=CC=C4)CC5=CC=C(C=C5)Cl)CC(C)(C)C(=O)O,Active,,,,0.016,IC50,=,16,nM,
+6,103445439,44390722,CC1=C(N(C2=C1C=C(C=C2)C3=CC(=C(C=C3)C4=CC=CC=C4)F)CC5=CC=C(C=C5)Cl)CC(C)(C)C(=O)O,Active,,,,0.007,IC50,=,7,nM,
+7,103445810,44390943,CC1=C(N(C2=C1C=C(C=C2)C3=CC(=C(C=C3)C4=CC=CC=C4Cl)F)CC5=CC=C(C=C5)Cl)CC(C)(C)C(=O)O,Active,,,,0.004,IC50,=,4,nM,
+8,103446025,11526708,CC1=CC=CC=C1C2=C(C=C(C=C2)C3=CC4=C(C=C3)N(C(=C4C)CC(C)(C)C(=O)O)CC5=CC=C(C=C5)Cl)F,Active,,,,0.003,IC50,=,3,nM,
+9,103640293,11712400,CC(C)(CCC1=CC2=C(C=C1)C3=C(C4=C2C=C(C=C4)Cl)N=C(N3)C5=C(C=CC=C5C#N)C#N)O,Active,,,,0.0007,IC50,=,0.7,nM,
+10,103640296,11707099,C1=CC(=CC(=C1)Cl)CN2C3=C(C(=C2C(=O)O)C4=CC=C(C=C4)OC(F)(F)F)SC(=C3)C5=CC=C(C=C5)OC(F)(F)F,Active,,,,0.39,IC50,=,390,nM,
+11,103640999,44585939,CC(C)OC1=CC=C(C=C1)N2C3=C(C=C(C=C3)CC4=CC=C(C=C4)C(C)(C)C)C=C2C(=O)O,Active,,,,0.06,IC50,=,60,nM,
+12,103641000,44585940,CC(C)NC1=CC=C(C=C1)N2C3=C(C=C(C=C3)CC4=CC=C(C=C4)C(C)(C)C)C(=C2C(=O)O)C5=CC=C(C=C5)OC(C)C,Active,,,,0.07,IC50,=,70,nM,
+13,103641048,16733250,CC(C)(CC1=C(C2=C(N1CC3=CC=C(C=C3)Cl)C=CC(=C2)C#CC4=C(C=C(C=C4)Cl)F)SCC5=CC=CC=C5)C(=O)O,Active,,,,0.06,IC50,=,60,nM,
+14,103644987,25179912,CCCCCC[C@H](C(=O)O)SC1=NC(=CC(=N1)Cl)NC2=CC=C(C=C2)C3=CC=C(C=C3)C#N,Active,,,,1.7,IC50,=,1700,nM,
+15,103700549,1723288,C1=CC=C(C=C1)C2=C/C(=C/C3=CC=C(O3)C4=CC=C(C=C4)Br)/C(=O)N2C5=CC=C(C=C5)C(=O)O,Active,,,,2.8,IC50,=,2800,nM,
+16,103700549,1723288,C1=CC=C(C=C1)C2=C/C(=C/C3=CC=C(O3)C4=CC=C(C=C4)Br)/C(=O)N2C5=CC=C(C=C5)C(=O)O,Unspecified,,,Potential missing data,,Inhibition,,,,Dose-dependent effect
+17,131271785,3108985,CC1=C(C=C(C=C1)N2C(=O)C3=CC4=C(C(=C3C2=O)C(=O)C5=CC=C(C=C5)C(=O)O)C(=O)N(C4=O)C6=CC(=C(C=C6)C)C)C,Active,,,,7.9,IC50,=,7900,nM,
+18,131271785,3108985,CC1=C(C=C(C=C1)N2C(=O)C3=CC4=C(C(=C3C2=O)C(=O)C5=CC=C(C=C5)C(=O)O)C(=O)N(C4=O)C6=CC(=C(C=C6)C)C)C,Unspecified,,,Potential missing data,,Inhibition,,,,Dose-dependent effect
+19,131272826,51976272,CCCCCC[C@H](C(=O)O)SC1=NC(=CC(=N1)Cl)NCC2=CC=C(C=C2)C3=CC=CC=C3,Active,,,,1.3,IC50,=,1300,nM,
+20,131274787,1032885,CN(CC1=CC(=CC=C1)SC2=CC=C(C=C2)OC)C3=CC(=NC4=C3C(=CC(=C4)Cl)Cl)C(=O)O,Active,,,,3,IC50,=,3000,nM,
+21,131274787,1032885,CN(CC1=CC(=CC=C1)SC2=CC=C(C=C2)OC)C3=CC(=NC4=C3C(=CC(=C4)Cl)Cl)C(=O)O,Unspecified,,,Potential missing data,,Inhibition,,,,Dose-dependent effect
+22,131276839,1240120,CC1=CC=C(C=C1)NS(=O)(=O)C2=C(C=CC(=C2)C(=O)NC3=CC=CC=C3C(=O)O)Br,Active,,,,2.3,IC50,=,2300,nM,
+23,131276839,1240120,CC1=CC=C(C=C1)NS(=O)(=O)C2=C(C=CC(=C2)C(=O)NC3=CC=CC=C3C(=O)O)Br,Unspecified,,,Potential missing data,,Inhibition,,,,Dose-dependent effect
+24,131277733,427265,C1=CC(=CC=C1C2=CC=C(C=C2)C3=NC4=C(C=C(C=C4)Cl)C(=C3)C(=O)O)C5=NC6=C(C=C(C=C6)Cl)C(=C5)C(=O)O,Active,,,,0.5,IC50,=,500,nM,
+25,131277733,427265,C1=CC(=CC=C1C2=CC=C(C=C2)C3=NC4=C(C=C(C=C4)Cl)C(=C3)C(=O)O)C5=NC6=C(C=C(C=C6)Cl)C(=C5)C(=O)O,Unspecified,,,Potential missing data,,Inhibition,,,,Dose-dependent effect
+26,131278847,295563,CCCCCCCCN(C1=CC=C(C=C1)C(=O)O)S(=O)(=O)C2=CC=C(C=C2)C,Active,,,,3.7,IC50,=,3700,nM,
+27,131278847,295563,CCCCCCCCN(C1=CC=C(C=C1)C(=O)O)S(=O)(=O)C2=CC=C(C=C2)C,Unspecified,,,Potential missing data,,Inhibition,,,,Dose-dependent effect
+28,131280872,5185168,CC1(CC2=C(C(C3=C(N2CCC(=O)O)CC(CC3=O)(C)C)C4=CC(=C(C=C4)OCC5=CC=C(C=C5)Cl)Br)C(=O)C1)C,Active,,,,2.6,IC50,=,2600,nM,
+29,131280872,5185168,CC1(CC2=C(C(C3=C(N2CCC(=O)O)CC(CC3=O)(C)C)C4=CC(=C(C=C4)OCC5=CC=C(C=C5)Cl)Br)C(=O)C1)C,Unspecified,,,Potential missing data,,Inhibition,,,,Dose-dependent effect
+30,131280873,4589007,CCCC(C(=O)O)SC1=NC2=C(S1)C=C(C=C2)NC(=O)C3=CC=C(C=C3)C(C)(C)C,Active,,,,7.7,IC50,=,7700,nM,
+31,131280873,4589007,CCCC(C(=O)O)SC1=NC2=C(S1)C=C(C=C2)NC(=O)C3=CC=C(C=C3)C(C)(C)C,Unspecified,,,Potential missing data,,Inhibition,,,,Dose-dependent effect
+32,131280874,423227,CC1=CC(=CC(=C1Cl)S(=O)(=O)O)OC2=C(C=C(C=C2)Cl)NC(=O)NC3=CC=CC(=C3)C(F)(F)F,Active,,,,0.4,IC50,=,400,nM,
+33,131280874,423227,CC1=CC(=CC(=C1Cl)S(=O)(=O)O)OC2=C(C=C(C=C2)Cl)NC(=O)NC3=CC=CC(=C3)C(F)(F)F,Unspecified,,,Potential missing data,,Inhibition,,,,Dose-dependent effect
+34,131282769,54585240,CC1=C(C(=CC=C1)NC2=CC(=NC(=N2)S[C@H](C3=CC=CC4=CC=CC=C43)C(=O)O)Cl)C,Active,,,,5.1,IC50,=,5100,nM,
+35,131284768,54586204,CCCCCC[C@H](C(=O)O)SC1=NC(=CC(=N1)Cl)NC2=CC(=CC(=C2)OCC(F)(F)F)OCC(F)(F)F,Active,,,,2.6,IC50,=,2600,nM,
+36,131284769,54586205,CCCCCC[C@H](C(=O)O)SC1=NC(=CC(=N1)Cl)NC2=CC=CC(=C2C)C,Active,,,,3.9,IC50,=,3900,nM,

@@ -1,0 +1,9 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,Standard Type,Standard Units,Activity Comment
+RESULT_TYPE,,,,,,,,STRING,STRING,STRING
+RESULT_DESCR,,,,,,,,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),Selected units for 'Standard Type': e.g. concentrations are in nM,Additional comments
+1,103360590,10825845,C1C(NC(=O)NN1C2=CC=CC=C2)OC3=CC=CC=C3,Inactive,,,Potential missing data,ED50,mg.kg-1,Not Active
+2,103360757,10798287,CC1(CN(NC(=O)N1)C2=CC=CC=C2)C,Inactive,,,Potential missing data,ED50,mg.kg-1,Not Active
+3,103360766,10797791,CC1=CC=CC=C1N2CCNC(=O)N2,Inactive,,,Potential missing data,ED50,mg.kg-1,Not Active
+4,103360941,10729840,CC1CN(NC(=O)N1)C2=CC=CC(=C2)C3=CC=CO3,Inactive,,,Potential missing data,ED50,mg.kg-1,Not Active
+5,103360978,10633035,CC1CN(NC(=O)N1)C2=NC(=CC=C2)Cl,Inactive,,,Potential missing data,ED50,mg.kg-1,Not Active
+6,103361044,10779627,C1C(NC(=O)NN1C2=CC=CC=C2)OC3=CC=C(C=C3)F,Inactive,,,Potential missing data,ED50,mg.kg-1,Not Active

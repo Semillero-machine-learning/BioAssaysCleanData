@@ -1,0 +1,29 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,Standard Type,Standard Relation,Standard Value,Standard Units
+RESULT_TYPE,,,,,,,,STRING,STRING,FLOAT,STRING
+RESULT_DESCR,,,,,,,,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM,Selected units for 'Standard Type': e.g. concentrations are in nM
+1,103172204,60490,CC(C1=CC2=CC=CC=C2S1)N(C(=O)N)O,Unspecified,,,,Inhibition,=,90.52,%
+2,103217468,638024,C1CCN(CC1)C(=O)/C=C/C=C/C2=CC3=C(C=C2)OCO3,Unspecified,,,,Inhibition,=,47.45,%
+3,103263790,13559589,C1CCN(CC1)C(=O)/C=C/C2=CC(=C(C=C2)O)O,Unspecified,,,,Inhibition,=,55.17,%
+4,103345858,641115,C1CCN(CC1)C(=O)/C=C/C2=CC3=C(C=C2)OCO3,Unspecified,,,,Inhibition,=,39.88,%
+5,103345931,10244953,C1CCN(CC1)C(=O)/C=C/C=C/C=C/C2=CC3=C(C=C2)OCO3,Unspecified,,,,Inhibition,=,76.02,%
+6,160694058,11983343,C1CCN(CC1)C(=O)/C=C/C=C/C2=CC(=C(C=C2)O)O,Unspecified,,,,Inhibition,=,82.75,%
+7,381841502,137634710,CC(=O)OC1=CC=C(C=C1)/C=C/C=C/C(=O)N2CCCCC2,Unspecified,,,,Inhibition,=,18.28,%
+8,381843830,137636250,COC1=C(C(=C(C=C1)/C=C/C=C/C(=O)N2CCCCC2)OC)OC,Unspecified,,,,Inhibition,=,36.02,%
+9,381844016,10131321,C1CCN(CC1)C(=O)/C=C/C=C/C2=CC=C(C=C2)O,Unspecified,,,,Inhibition,=,44.44,%
+10,381849066,5712570,C1CCN(CC1)C(=O)/C=C/C=C/C2=CC=CC=C2,Unspecified,,,,Inhibition,=,36.27,%
+11,381852825,122376769,COC1=CC(=CC(=C1OC)OC)/C=C/C=C/C(=O)N2CCCCC2,Unspecified,,,,Inhibition,=,66.67,%
+12,381858008,12403944,COC1=CC=C(C=C1)/C=C/C=C/C(=O)N2CCCCC2,Unspecified,,,,Inhibition,=,42.59,%
+13,381858743,137646304,C1CCN(CC1)C(=O)/C=C/C=C/C2=CC=C(C=C2)OC3CCCC3,Unspecified,,,,Inhibition,=,16.13,%
+14,381863955,12691292,COC1=CC=C(C=C1)/C=C/C=C/C=C/C(=O)N2CCCCC2,Unspecified,,,,Inhibition,=,1.08,%
+15,381873467,12403948,COC1=C(C=C(C=C1)/C=C/C=C/C(=O)N2CCCCC2)OC,Unspecified,,,,Inhibition,=,51.85,%
+16,381882248,137658487,CN(C)C1=CC=C(C=C1)/C=C/C=C/C=C/C(=O)N2CCCCC2,Unspecified,,,,Inhibition,=,27.42,%
+17,381886361,137661271,CN(C)C1=CC=C(C=C1)/C=C/C=C/C(=O)N2CCCCC2,Unspecified,,,,Inhibition,=,13.44,%
+18,440111468,155511642,C1CCN(CC1)C(=O)/C=C/C=C/C=C/C2=CC(=C(C=C2)O)O,Unspecified,,,,Inhibition,=,30.34,%
+19,440140561,155530646,COC1=CC(=CC(=C1O)OC)/C=C/C=C/C(=O)N2CCCCC2,Unspecified,,,,Inhibition,=,32.66,%
+20,440155794,155539906,C1CCN(CC1)C(=O)/C=C/C=C/C2=CC(=C(C(=C2)O)O)O,Unspecified,,,,Inhibition,=,82.47,%
+21,440158862,132098752,CSC1=CC=C(C=C1)/C=C/C=C/C(=O)N2CCCCC2,Unspecified,,,,Inhibition,=,11.83,%
+22,440165486,71550023,COC1=CC(=CC(=C1)/C=C/C=C/C(=O)N2CCCCC2)OC,Unspecified,,,,Inhibition,=,64.89,%
+23,440183393,6290038,COC1=C(C=CC(=C1)/C=C/C=C/C(=O)N2CCCCC2)O,Unspecified,,,,Inhibition,=,55.49,%
+24,440195426,12403946,C1CCN(CC1)C(=O)/C=C/C=C/C2=CC=C(C=C2)Cl,Unspecified,,,,Inhibition,=,14.52,%
+25,440202988,155558878,COC1=CC(=C(C(=C1)OC)/C=C/C=C/C(=O)N2CCCCC2)OC,Unspecified,,,,Inhibition,=,77.12,%
+26,440213048,12056747,C1CCN(CC1)C(=O)/C=C/C=C/C2=CC=C(C=C2)F,Unspecified,,,,Inhibition,=,48.7,%

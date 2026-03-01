@@ -1,0 +1,19 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,Standard Type,Standard Relation,Standard Value,Standard Units,Activity Comment
+RESULT_TYPE,,,,,,,,STRING,STRING,FLOAT,STRING,STRING
+RESULT_DESCR,,,,,,,,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM,Selected units for 'Standard Type': e.g. concentrations are in nM,Additional comments
+1,440118158,155516065,CC1=CC(=NN1)C2=CC(=C(C=C2)C(=O)[C@@H]3CCCC[C@H]3C(=O)NC4=CN(N=C4C(=O)N)C)F,Inconclusive,,,Potential missing data,Drug metabolism,,,,Not Determined
+2,440127615,122678088,CC1=CC(=NN1)C2=CC=C(C=C2)C(=O)[C@@H]3CCCC[C@H]3C(=O)NC4=CN(N=C4C(=O)N)C,Inconclusive,,,Potential missing data,Drug metabolism,,,,Not Determined
+3,440139077,155529670,CN1C=C(C(=N1)C(F)(F)F)NC(=O)[C@@H]2CCCC[C@H]2C(=O)C3=CC=C(C=C3)C4=CC=NN4,Unspecified,,,,Drug metabolism,=,57,%,
+4,440146246,155534427,CN1C=C(C(=N1)C(F)(F)F)NC(=O)[C@@H]2C[C@@H]3C[C@@H]3C[C@H]2C(=O)C4=CC=C(C=C4)C5=CC=NN5,Unspecified,,,,Drug metabolism,=,53,%,
+5,440147430,155535185,CC(C)(CNC(=O)C1=CN=C(C=N1)NC(=O)[C@@H]2CCCC[C@H]2C(=O)C3=CC=C(C=C3)C4=CC=NN4)O,Inconclusive,,,Potential missing data,Drug metabolism,,,,Not Determined
+6,440148128,155535638,CC1=C(C(=NO1)C)NC(=O)[C@@H]2CCCC[C@H]2C(=O)C3=CC=C(C=C3)C4=CC=NN4,Inconclusive,,,Potential missing data,Drug metabolism,,,,Not Determined
+7,440148710,155536006,CC1=CC(=NN1)C2=CC3=C(C=C2)C(=NO3)[C@@H]4CCCC[C@H]4C(=O)NC5=CN(N=C5C(=O)N)C,Inconclusive,,,Potential missing data,Drug metabolism,,,,Not Determined
+8,440166416,155544322,CN1C(=C(C=N1)NC(=O)[C@@H]2C[C@@H]3C[C@@H]3C[C@H]2C(=O)C4=CC=C(C=C4)C5=CC=NN5)C(F)(F)F,Unspecified,,,,Drug metabolism,>,72,%,
+9,440167802,155544876,COC1=NC=NC(=C1)NC(=O)[C@@H]2CCCC[C@H]2C(=O)C3=CC=C(C=C3)C4=CC=NN4,Unspecified,,,,Drug metabolism,=,52,%,
+10,440168199,155545031,CC1=CC(=NN1)C2=CC=C(C=C2)C(=O)[C@@H]3CCCC[C@H]3C(=O)NC4=CN(N=C4C)C,Unspecified,,,,Drug metabolism,>,32,%,
+11,440172497,155546721,CN1C(=C(C=N1)NC(=O)[C@@H]2CCCC[C@H]2C(=O)C3=CC=C(C=C3)C4=CC=NN4)C(F)(F)F,Unspecified,,,,Drug metabolism,>,54,%,
+12,440173931,155547317,C1CC[C@H]([C@@H](C1)C(=O)C2=CC=C(C=C2)C3=CC=NN3)C(=O)NC4=C5N=CC=CN5N=C4,Unspecified,,,,Drug metabolism,=,61,%,
+13,440195654,155555928,CC1=NN(C=C1NC(=O)[C@@H]2CCCC[C@H]2C(=O)C3=C(C=C(C=C3)C4=CC=NN4)F)C,Unspecified,,,,Drug metabolism,=,51,%,
+14,440195776,155555980,CC1=NN(C=C1NC(=O)[C@@H]2CCCC[C@H]2C(=O)C3=CC=C(C=C3)C4=CC=NN4)C,Inconclusive,,,Potential missing data,Drug metabolism,,,,Not Determined
+15,440198914,135305974,CC1=CC(=NN1)C2=CC=C(C=C2)C(=O)[C@@H]3CCCC[C@H]3C(=O)NC4=CN(N=C4C#N)C,Inconclusive,,,Potential missing data,Drug metabolism,,,,Not Determined
+16,440202623,155558755,CC1=CC(=NN1)C2=CC3=C(C=C2)C(=NO3)[C@@H]4C[C@H]5C[C@H]5C[C@H]4C(=O)NC6=CN(N=C6C(=O)N)C,Unspecified,,,,Drug metabolism,=,97,%,

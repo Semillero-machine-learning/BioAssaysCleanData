@@ -1,0 +1,10 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,Standard Type,Standard Relation,Standard Value
+RESULT_TYPE,,,,,,,,STRING,STRING,FLOAT
+RESULT_DESCR,,,,,,,,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM
+1,103187126,132306,CN1C2=C(C=CC1=O)C=C(C=C2)COC3=CC(=CC(=C3)C4(CCOCC4)OC)F,Unspecified,,,,delta Log P,=,-1.7
+2,103295088,14985916,CN1C2=C(C=CC1=O)C=C(C=C2)COC3=CC=CC(=C3)C4(CCOCC4)OC,Unspecified,,,,delta Log P,=,-2
+3,103295662,14985869,COC1(CCOCC1)C2=CC(=CC(=C2)F)OCC3=CC4=NC=CN=C4C=C3,Unspecified,,,,delta Log P,=,-1.8
+4,103295700,44321940,COC1(CCOCC1)C2=CC(=CC(=C2)F)OCC3=CC4=CN=CN=C4C=C3,Unspecified,,,,delta Log P,=,-2.1
+5,103295707,44321945,CCOC(=O)C.COC1(CCOCC1)C2=CC(=CC(=C2)F)OCC3=NC4=CC=CC=C4C=N3,Unspecified,,,,delta Log P,=,-1.9
+6,103295861,14985922,CN1C2=C(C=C(C=C2)COC3=CC(=CC(=C3)C4(CCOCC4)OC)F)SC1=O,Unspecified,,,,delta Log P,=,-1.2
+7,103295977,14985923,CN1C2=C(C=C(C=C2)COC3=CC(=CC(=C3)C4(CCOCC4)OC)F)N=CC1=O,Unspecified,,,,delta Log P,=,-2.3
